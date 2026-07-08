@@ -14,3 +14,4 @@ class Food
 		System.out.println("Current hiked salary  : " + sal + "Rs") ;
 	}
 }
+// Initially priya's salary is 25000 rs the company gives her as incerment of 5000 rs write a java program to store and display the data ? // 
